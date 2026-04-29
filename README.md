@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=65&fontColor=1234&fontAlign=50&fontAlignY=45&stroke=-&descSize=20&descAlign=48&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=65&fontColor=1234&fontAlign=50&fontAlignY=45&stroke=-&descSize=20&descAlign=48&descAlignY=50&textBg=false&color=fc0303"  />
 </div>
 
 ###
@@ -25,6 +25,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=3&section=header&reversal=false&fontSize=1&fontColor=FFFFFF&fontAlign=1&fontAlignY=1&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
+
+###
+
 <div align="left">
   <a href="yFiori1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -39,14 +45,22 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yFiori1/yFiori1/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yFiori1/yFiori1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yFiori1/yFiori1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yFiori1/yFiori1/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yFiori1.yFiori1&"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
 ###
