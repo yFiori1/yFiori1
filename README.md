@@ -26,7 +26,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=3&section=header&reversal=false&fontSize=1&fontColor=FFFFFF&fontAlign=1&fontAlignY=1&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F"  />
 </div>
 
 ###
@@ -64,10 +64,3 @@
 </div>
 
 ###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
-Share
-Privacy Policy
